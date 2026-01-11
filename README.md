@@ -1,4 +1,4 @@
-# 📄 AI CV Parser
+# 📄 AI CV Parser Assistant
 
 A modern Streamlit web application that uses AI to parse and extract structured data from CV/resume PDFs automatically.
 
